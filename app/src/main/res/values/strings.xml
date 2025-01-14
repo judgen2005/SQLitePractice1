@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLitePractice1</string>
+    <string name="app_name_title">Чек покупок</string>
+    <string name="product_name_hint">Название продукта</string>
+    <string name="product_weight_hint">Вес</string>
+    <string name="product_price_hint">Цена</string>
+    <string name="save_button">Сохранить</string>
+    <string name="exit">Выход</string>
+</resources>
